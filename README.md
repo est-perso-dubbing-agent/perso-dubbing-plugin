@@ -50,10 +50,10 @@ node scripts/install.mjs        # = npm run install:skill
 ### 📦 저장소가 아직 없을 때 (npx)
 
 ```bash
-npx github:<OWNER>/perso-dubbing
+npx github:est-perso-dubbing-agent/perso-dubbing-plugin
 ```
 
-위와 동일하게 호스트를 자동 감지해 설치합니다. *`<OWNER>`는 실제 저장소 주소로 바꾸세요. (npm 배포 시 `npx perso-dubbing`)*
+위와 동일하게 호스트를 자동 감지해 설치합니다. *(npm 배포 시 `npx perso-dubbing`)*
 
 ### 🔧 수동 설치
 
